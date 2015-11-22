@@ -34,6 +34,7 @@
 		</property>
 	</bean>
 
+
 	<bean id="sessionFactory"
 		class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
 		<!-- <property name="packagesToScan" value="com.siebre"/> -->
